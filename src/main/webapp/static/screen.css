@@ -1,0 +1,21 @@
+table {
+}
+
+table th {
+    text-align: left;
+    padding: 0 .5em;
+}
+
+table td {
+    padding: 0 .5em;
+    text-align: right;
+}
+
+.x-form label {
+    float: left;
+    width: 200px;
+}
+
+.x-form button {
+    margin-left: 200px;
+}
